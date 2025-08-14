@@ -1,0 +1,5 @@
+{
+  "name": "OTP Gateway",
+  "description": "Замените дорогие SMS-авторизации на надежные и выгодные OTP-коды в Telegram. Экономьте до 70% на OTP-сообщениях.",
+  "requestFramePermissions": []
+}
